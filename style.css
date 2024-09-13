@@ -1,0 +1,8 @@
+    table, tr,
+    td {
+        border-collapse: collapse;
+        background-color: turquoise;
+    }
+.colourJeuxvidéo {
+    background-color: rgb(245, 161, 6);
+}
