@@ -1,8 +1,16 @@
-    table, tr,
-    td {
-        border-collapse: collapse;
-        background-color: turquoise;
+body{
+    background-color:#00000051 
     }
-.colourJeuxvidéo {
-    background-color: rgb(245, 161, 6);
+
+h1 {background-color: #1511e9cf} 
+
+#pos_rel { position:  relative; left: 400px; top:2px;}
+
+.bleubas{
+    background-color: rgba(0, 255, 247, 0.526);
 }
+
+.bleuclair{
+    background-color: rgba(34, 154, 246, 0.832);
+}
+
