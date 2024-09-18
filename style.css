@@ -1,16 +1,19 @@
 body{
-    background-color:#00000051 
-    }
-
-h1 {background-color: #1511e9cf} 
+    background-color:#29397450 }
 
 #pos_rel { position:  relative; left: 400px; top:2px;}
 
+
+    h1 {background-color: #1511e9cf} 
+h1 {font-family: Consolas} 
+
 .bleubas{
-    background-color: rgba(0, 255, 247, 0.526);
-}
+    background-color: rgba(0, 255, 247, 0.526);}
 
 .bleuclair{
-    background-color: rgba(34, 154, 246, 0.832);
-}
+    background-color: rgba(34, 154, 246, 0.832);}
 
+a:link { color:rgba(255, 0, 0, 0.718); text-decoration:none; }
+a:visited { color:rgba(0, 110, 255, 0.673); text-decoration:none; }
+a:hover { color:rgb(242, 255, 0);}
+a:active { color:rgb(0, 255, 17); }
