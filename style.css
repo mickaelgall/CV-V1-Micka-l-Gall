@@ -1,19 +1,17 @@
 body{
     background-color:#29397450 }
+   
+    html {
+        margin-right: 250px;
+        margin-left: 250px;
+      }
 
-
-#pos_rel {  position: relative;left: 400px; top:2px;}
+      #pos_rel {  position: absolute;left: 750px; top:0px;}
 
 h1{background-color: #0400ffbb} 
 h1 {font-family: Consolas} 
 
 h1{font-size: 30px;}
-
-div {
-    
-    margin: auto;
-    border: 0px solid;
-  }
 
 table {
     border-collapse: collapse;
@@ -56,12 +54,6 @@ a:link { color:rgba(255, 0, 0, 0.718); text-decoration:none; }
 a:visited { color:rgba(255, 128, 0, 0.773); text-decoration:none; }
 a:hover { color:rgb(242, 255, 0);}
 a:active { color:rgb(0, 255, 17); }
-
-.salut{
-    width: 100px;
-    border-collapse : collapse 
-}
-
 
     h1 {background-color: #1511e9cf} 
 h1 {font-family: Consolas} 
