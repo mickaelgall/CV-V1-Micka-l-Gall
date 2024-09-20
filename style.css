@@ -1,16 +1,63 @@
 body{
-    background-color:#00000051 
-    }
+    background-color:#29397450 }
 
-h1 {background-color: #1511e9cf} 
+#pos_rel {  position: relative;left: 400px; top:2px;}
 
-#pos_rel { position:  relative; left: 400px; top:2px;}
+h1{background-color: #0400ffbb} 
+h1 {font-family: Consolas} 
 
-.bleubas{
-    background-color: rgba(0, 255, 247, 0.526);
-}
+h1{font-size: 30px;}
+
+div {
+    
+    margin: auto;
+    border: 0px solid;
+  }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;} 
+.titre1{
+        margin-bottom: 0;
+      }
+      .titre2{
+        margin-bottom: 0;
+      }
+
+      .titre3{
+        margin-bottom: 0;
+      }
+
+      .titre4{
+        margin-bottom: 0;
+      }
+
+
 
 .bleuclair{
-    background-color: rgba(34, 154, 246, 0.832);
-}
+    background-color: rgba(34, 154, 246, 0.832);}
+.vert{
+    background-color: rgba(146, 250, 0, 0.696);}   
+.blanc{
+      background-color: rgba(255, 255, 255, 0.832);}
+.jaune{
+    background-color: rgba(234, 255, 0, 0.632);}
+.rouge{
+    background-color: rgba(255, 0, 0, 0.556);}
+.violet{
+       background-color: rgba(183, 0, 255, 0.388);}
+.bleubas1{
+    background-color: rgba(0, 255, 247, 0.526);}
+.orangebas2{
+    background-color: rgba(255, 217, 0, 0.555);}
 
+
+a:link { color:rgba(255, 0, 0, 0.718); text-decoration:none; }
+a:visited { color:rgba(255, 128, 0, 0.773); text-decoration:none; }
+a:hover { color:rgb(242, 255, 0);}
+a:active { color:rgb(0, 255, 17); }
+
+.salut{
+    width: 100px;
+    border-collapse : collapse 
+}
