@@ -1,6 +1,6 @@
 body{
     background-color:#29397450 }
-<<<<<<< HEAD
+
 
 #pos_rel {  position: relative;left: 400px; top:2px;}
 
@@ -32,11 +32,7 @@ table {
       .titre4{
         margin-bottom: 0;
       }
-=======
->>>>>>> 474f5c879be4efdac248c5f5ddf1155ee1f55002
 
-
-<<<<<<< HEAD
 
 .bleuclair{
     background-color: rgba(34, 154, 246, 0.832);}
@@ -65,7 +61,7 @@ a:active { color:rgb(0, 255, 17); }
     width: 100px;
     border-collapse : collapse 
 }
-=======
+
 
     h1 {background-color: #1511e9cf} 
 h1 {font-family: Consolas} 
@@ -80,4 +76,4 @@ a:link { color:rgba(255, 0, 0, 0.718); text-decoration:none; }
 a:visited { color:rgba(0, 110, 255, 0.673); text-decoration:none; }
 a:hover { color:rgb(242, 255, 0);}
 a:active { color:rgb(0, 255, 17); }
->>>>>>> 474f5c879be4efdac248c5f5ddf1155ee1f55002
+
